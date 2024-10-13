@@ -9,7 +9,7 @@
 - 🤝 I enjoy forging connections with *like-minded individuals* and collaborating on *impactful projects*.
 
 ##  Tech Stack 🛠️
-#### Programming Languages 🌐  
+### Programming Languages 🌐  
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" alt="C++">
 </p>
 
-#### AI/ML Tools 🤖 
+### AI/ML Tools 🤖 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/-Beautiful%20Soup-black?style=flat-square&logo=beautifulsoup" alt="Beautiful Soup">
 </p>
 
-#### Software Development 💻📱
+### Software Development 💻📱
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=reactnative" alt="React Native">
 </p>
 
-#### Databases & Data Management 🗄️  
+### Databases & Data Management 🗄️  
 
 <p align="center">
   <a href="https://skillicons.dev">
