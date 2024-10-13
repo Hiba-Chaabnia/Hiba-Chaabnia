@@ -1,15 +1,13 @@
+# Hi there, I'm Hiba Chaabnia 👋
 
+## About Me 🌟
 
-<h1 align="center">Hi 👋, I'm Hiba Chaabnia</h1>
-<h3 align="center">
-  I'm an aspiring AI Engineer with a fondness for software development and a flair for graphic design.<br> 
-  Exploring the intersection of creativity and technology drives my curiosity, pushing me to innovate <br> and create meaningful solutions.
-</h3>
+- 👩‍💻 I am a final year engineering student passionate about ***artificial intelligence***, ***software development***, and all things tech.
+- 🔭 Currently, I am diving into the world of ***generative AI***, with a keen interest in ***RAGs*** and ***LLMs***.
+- 🌱 I am actively exploring the potential of ***knowledge graphs*** by ***developing innovative real-world applications*** that leverage their capabilities.
+- 📚 I embrace ***lifelong learning***, consistently staying abreast of the latest trends in ***AI*** and ***machine learning***.
+- 🤝 I enjoy forging connections with ***like-minded individuals*** and collaborating on ***impactful projects***.
 
-
-- 🔭 I’m currently working on **Virtual Assistant for the Visually Impaired**
-- 🌱 I’m currently diving into the world of generative AI
-- 📫 How to reach me: **hiba.chaabnia.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
