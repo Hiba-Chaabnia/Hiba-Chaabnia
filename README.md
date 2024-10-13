@@ -10,7 +10,6 @@
 
 ##  Tech Stack 🛠️
 ### Programming Languages 🌐  
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,java,javascript,kotlin,html,css" />
@@ -21,6 +20,7 @@
   <img src="https://img.shields.io/badge/-Cypher-black?style=flat-square&logo=cypher" alt="Cypher">
   <img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B" alt="C++">
 </p>
+
 
 ### AI/ML Tools 🤖 
 
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy" alt="NumPy">&nbsp;
   <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas">&nbsp;
   <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib" alt="Matplotlib">&nbsp;
-  <img src="https://img.shields.io/badge/-Beautiful%20Soup-black?style=flat-square&logo=beautifulsoup" alt="Beautiful Soup">
+  <img src="https://img.shields.io/badge/-BeautifulSoup-black?style=flat-square&logo=beautifulsoup" alt="Beautiful Soup">
 </p>
 
 ### Software Development 💻📱
@@ -67,10 +67,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j" alt="Neo4j">&nbsp;
   <img src="https://img.shields.io/badge/-FAISS-black?style=flat-square&logo=facebook" alt="FAISS">&nbsp;
-  <img src="https://img.shields.io/badge/-Chroma-black?style=flat-square&logo=chroma" alt="Chroma">
+  <img src="https://img.shields.io/badge/-ChromaDB-black?style=flat-square&logo=chroma" alt="Chroma">
 </p>
 
-#### Cloud & DevOps ☁️ 
+### Cloud & DevOps ☁️ 
 
 <p align="center">
   <a href="https://skillicons.dev">
