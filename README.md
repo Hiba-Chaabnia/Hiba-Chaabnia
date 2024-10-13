@@ -2,11 +2,11 @@
 
 ## About Me 🌟
 
-- 👩‍💻 I am a final year engineering student passionate about ***artificial intelligence***, ***software development***, and all things tech.
-- 🔭 Currently, I am diving into the world of ***generative AI***, with a keen interest in ***RAGs*** and ***LLMs***.
-- 🌱 I am actively exploring the potential of ***knowledge graphs*** by ***developing innovative real-world applications*** that leverage their capabilities.
-- 📚 I embrace ***lifelong learning***, consistently staying abreast of the latest trends in ***AI*** and ***machine learning***.
-- 🤝 I enjoy forging connections with ***like-minded individuals*** and collaborating on ***impactful projects***.
+- 👩‍💻 I am a final year engineering student passionate about *artificial intelligence*, *software development*, and all things tech.
+- 🔭 Currently, I am diving into the world of *generative AI*, with a keen interest in *RAGs* and *LLMs*.
+- 🌱 I am actively exploring the potential of *knowledge graphs* by developing *innovative real-world applications* that leverage their capabilities.
+- 📚 I embrace *lifelong learning*, consistently staying abreast of the latest trends in *AI* and *machine learning*.
+- 🤝 I enjoy forging connections with *like-minded individuals* and collaborating on *impactful projects*.
 
 
 <h3 align="left">Connect with me:</h3>
