@@ -8,6 +8,8 @@
 - 📚 I embrace *lifelong learning*, consistently staying abreast of the latest trends in *AI* and *machine learning*.
 - 🤝 I enjoy forging connections with *like-minded individuals* and collaborating on *impactful projects*.
 
+##  Tech Stack 🛠️
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
