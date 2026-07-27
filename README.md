@@ -8,7 +8,7 @@
 
 ## About Me 🌟
 
-- 🎓 AI Engineer and recent grad, currently building open-source AI projects while looking for what's next.
+- 🎓 AI Engineer, currently building open-source AI projects while looking for what's next.
 - 🤖 Focused on *generative AI*, *agentic systems*, and *multimodal AI* — with real-world applications built on *knowledge graphs*.
 - 🛡️ New frontiers I'm exploring: *AI Safety* and sharpening my *cloud engineering* chops.
 - ⌨️ I have a soft spot for CLI/TUI apps — [LeetVibe](https://github.com/Hiba-Chaabnia/LeetVibe) was basically an excuse to indulge that.
