@@ -1,18 +1,25 @@
 # Hi there, I'm Hiba Chaabnia 👋
 
+<p align="center">
+  <a href="mailto:hiba.chaabnia.pro@gmail.com" title="Open to work — get in touch"><img src="https://custom-icon-badges.demolab.com/badge/Open%20to%20work-Industry%20roles%20and%20PhDs-555?logo=briefcase&logoColor=white&labelColor=2EA44F&style=flat" alt="Open to work — Industry roles and PhDs"></a>
+  <a href="https://linkedin.com/in/hiba-chaabnia" title="LinkedIn"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" /></a>
+  <a href="mailto:hiba.chaabnia.pro@gmail.com" title="Email me"><img src="https://custom-icon-badges.demolab.com/badge/-Email-D14836?logo=mail&logoColor=white&style=flat" alt="Email"></a>
+</p>
+
 ## About Me 🌟
 
-- 👩‍💻 I am a final year engineering student passionate about *artificial intelligence*, *software development*, and all things tech.
-- 🔭 Currently, I am diving into the world of *generative AI*, with a keen interest in *RAGs* and *Agents*.
-- 🌱 I am actively exploring the potential of *knowledge graphs* by developing *innovative real-world applications* that leverage their capabilities.
-- 📚 I embrace *lifelong learning*, consistently staying abreast of the latest trends in *AI* and *machine learning*.
-- 🤝 I enjoy forging connections with *like-minded individuals* and collaborating on *impactful projects*.
+- 🎓 AI Engineer and recent grad, currently building open-source AI projects while looking for what's next.
+- 🤖 Focused on *generative AI*, *agentic systems*, and *multimodal AI* — with real-world applications built on *knowledge graphs*.
+- 🛡️ New frontiers I'm exploring: *AI Safety* and sharpening my *cloud engineering* chops.
+- ⌨️ I have a soft spot for CLI/TUI apps — [LeetVibe](https://github.com/Hiba-Chaabnia/LeetVibe) was basically an excuse to indulge that.
+- 🤝 Always up for connecting with fellow builders and researchers working on impactful projects.
+- 🎨 Fun fact: Turns out dogfooding your own hobby-discovery app (Meraki) works a little too well — I'm now (almost) a fashion design graduate.
 
 ##  Tech Stack 🛠️
 ### Programming Languages 🌐  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,java,javascript,kotlin,html,css" />
+    <img src="https://skillicons.dev/icons?i=python,c,java,javascript,kotlin,dart,html,css" />
   </a>
 </p>
 
@@ -37,7 +44,11 @@
   <img src="https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai" alt="OpenAI">&nbsp;
   <img src="https://img.shields.io/badge/-Gemini-black?style=flat-square&logo=google" alt="Gemini">&nbsp;
   <img src="https://img.shields.io/badge/-Ollama-black?style=flat-square&logo=ollama" alt="Ollama">&nbsp;
+  <img src="https://img.shields.io/badge/-Mistral%20AI-black?style=flat-square&logo=mistralai" alt="Mistral AI">&nbsp;
+  <img src="https://img.shields.io/badge/-Claude-black?style=flat-square&logo=anthropic" alt="Claude">&nbsp;
   <img src="https://img.shields.io/badge/-LlamaIndex-black?style=flat-square&logo=llama" alt="LlamaIndex">&nbsp;
+  <img src="https://img.shields.io/badge/-CrewAI-black?style=flat-square" alt="CrewAI">&nbsp;
+  <img src="https://img.shields.io/badge/-Google%20ADK-black?style=flat-square&logo=google" alt="Google ADK">&nbsp;
   <img src="https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy" alt="NumPy">&nbsp;
   <img src="https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas" alt="Pandas">&nbsp;
   <img src="https://img.shields.io/badge/-Matplotlib-black?style=flat-square&logo=matplotlib" alt="Matplotlib">&nbsp;
@@ -48,7 +59,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flask,threejs,androidstudio,unity" />
+    <img src="https://skillicons.dev/icons?i=react,flask,threejs,androidstudio,unity,flutter" />
   </a>
 </p>
 
@@ -60,7 +71,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,supabase" />
   </a>
 </p>
 
@@ -74,31 +85,38 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,git" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,github,git,vercel" />
   </a>
 </p>
 
+## GitHub Stats 📊
 
+<!--
+  Cards below are served by my own widget suite (github-readme-vitals),
+  deployed at github-readme-alpha-bay.vercel.app (still in early development). Each uses <picture> so the
+  card follows the reader's light/dark system theme; the <img> is the fallback
+  for renderers that ignore <source>.
+-->
 
-## Connect with me 📫
-<p align="left">
-  <a href="https://linkedin.com/in/hiba-chaabnia" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  
-  <a href="mailto:hiba.chaabnia.pro@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-</p>
+<!-- Contributions Showcase — full-width banner -->
+<div align="center">
+<picture>
+  <source srcset="https://github-readme-alpha-bay.vercel.app/api/contributions?username=Hiba-Chaabnia&width=800&theme=dark" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-alpha-bay.vercel.app/api/contributions?username=Hiba-Chaabnia&width=800&theme=light">
+  <img src="https://github-readme-alpha-bay.vercel.app/api/contributions?username=Hiba-Chaabnia&width=800&theme=light" alt="Open Source Contributions">
+</picture>
+</div>
 
-
-
-
-
-
-
-
-
-
-
-
+<!-- Consistency & Streak (left) + Now Working On (right) -->
+<div align="center">
+<picture>
+  <source srcset="https://github-readme-alpha-bay.vercel.app/api/consistency?username=Hiba-Chaabnia&width=380&theme=dark" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-alpha-bay.vercel.app/api/consistency?username=Hiba-Chaabnia&width=380&theme=light">
+  <img src="https://github-readme-alpha-bay.vercel.app/api/consistency?username=Hiba-Chaabnia&width=380&theme=light" alt="Consistency & Streak" align="top">
+</picture>
+<picture>
+  <source srcset="https://github-readme-alpha-bay.vercel.app/api/now?username=Hiba-Chaabnia&limit=5&width=416&theme=dark" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github-readme-alpha-bay.vercel.app/api/now?username=Hiba-Chaabnia&limit=5&width=416&theme=light">
+  <img src="https://github-readme-alpha-bay.vercel.app/api/now?username=Hiba-Chaabnia&limit=5&width=416&theme=light" alt="Now Working On" align="top">
+</picture>
+</div>
